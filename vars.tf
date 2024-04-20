@@ -1,4 +1,4 @@
-variable "instance_type" {}
+# variable "instance_type" {}
 variable "subnets" {}
 variable "name" {}
 variable "env"{}
